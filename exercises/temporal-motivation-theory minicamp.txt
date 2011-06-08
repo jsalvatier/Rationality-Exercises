@@ -1,0 +1,22 @@
+Remember: 
+		expectancy x value
+motivation = -----------------------
+		impulsivity x delay
+
+0. select a task you're having trouble motivating yourself for
+	writing anki cards for minicamp notes
+1. does the task seem likely to be completed? if not, why?
+ 	yes
+
+2. does the value of the task seem high or low? if low, why?
+	low, I am skeptical that the cards are actually going to teach me something, or help me build habits. Plus I feel a little silly.
+
+3. do the rewards of the task seem near or far away? if far away, why?
+	far away, I won't get the results until quite a while from now
+
+4. are there ways you could increase expectancy or value or decrease delay?
+	4.2	- ask someone to review cards and suggest improvements
+	    	- ask how to build habits with anki or other software
+		- "these cards are going to help me be a more effective person by allowing me to choose effective goals, have high productivity, accurate beliefs and self modify in productive ways"
+	 	- notice that feeling silly is not a reliable signal, make it seem like a positive one
+	4.3	- find something to reward myself with when I am done with the cards
